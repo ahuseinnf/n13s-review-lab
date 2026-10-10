@@ -1,0 +1,5 @@
+{
+  "requiredPlugins": [
+    { "source": "local", "path": "plugins/envcanary" }
+  ]
+}
